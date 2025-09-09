@@ -4,7 +4,7 @@
 
 # Binance Futures Testnet Trading Bot
 
-**A Python-based trading bot for Binance USDT-M Futures Testnet supporting Market, Limit, Stop-Limit, OCO, and TWAP orders with robust logging and CLI interface.**
+**A Python-based trading bot for Binance USDT-M Futures Testnet supporting Market, Limit, Stop-Limit, OCO, and TWAP orders with robust logging, error handling and CLI interface.**
 
 ---
 
