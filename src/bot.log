@@ -1,2 +1,0 @@
-2025-09-10 00:28:12,148 - INFO - Bot initialized on Binance Futures Testnet.
-2025-09-10 00:28:48,991 - ERROR - Market order failed: APIError(code=-2014): API-key format invalid.
