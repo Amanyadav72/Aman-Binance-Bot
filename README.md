@@ -93,7 +93,7 @@ cd src
 python bot.py
 ```
 
-2. Enter **API Key** and **Secret Key** (Binance Testnet) when prompted.
+2. Enter **API Key** and **Secret Key** (Binance Testnet- Get testnet keys: https://testnet.binancefuture.com ) when prompted.
 
 3. Follow CLI prompts:
 
