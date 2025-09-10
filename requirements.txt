@@ -4,5 +4,5 @@
 # Core Dependencies
 python-binance==1.0.15
 
-# Optional: For enhanced logging and formatting
-#colorama==0.4.6
+# For enhanced logging and formatting
+colorama==0.4.6
