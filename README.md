@@ -93,7 +93,7 @@ cd src
 python bot.py
 ```
 ## 🖥️📸 Screenshots
-![CLI view] 
+CLI view: 
 <img width="687" height="466" alt="Screenshot 2025-09-10 122652" src="https://github.com/user-attachments/assets/07693c81-1499-497d-9207-d9e8d2b21070" />
 
 2. Enter **API Key** and **Secret Key** (Binance Testnet- Get testnet keys: https://testnet.binancefuture.com ) when prompted.
